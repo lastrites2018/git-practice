@@ -1,1 +1,1 @@
-console.log('김기홍');
+console.log('안녕하이소~');
